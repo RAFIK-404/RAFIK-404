@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RAFIK-404/count.svg?"  />
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RAFIK-404/count.svg?"  />
+</div>
 
 ###
 
