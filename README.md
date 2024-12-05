@@ -14,15 +14,16 @@
 
 ###
 
-<p align="left">I'm RAFIK, a passionate FiveM developer with a love for crafting immersive experiences in the GTA V roleplaying world. 🚗💻 <br>With a strong focus on custom scripting, optimization, and creativity, I strive to build unique and engaging game modes, scripts, and resources for the FiveM community. <br>Whether it's developing seamless server mechanics or enhancing roleplay dynamics, I enjoy tackling challenges and bringing ideas to life.</p>
-
 ###
 
 <h2 align="left">About me</h2>
 
+<p align="left">I'm RAFIK, a passionate FiveM developer with a love for crafting immersive experiences in the GTA V roleplaying world. 🚗💻 <br>With a strong focus on custom scripting, optimization, and creativity, I strive to build unique and engaging game modes, scripts, and resources for the FiveM community. <br>Whether it's developing seamless server mechanics or enhancing roleplay dynamics, I enjoy tackling challenges and bringing ideas to life.</p>
+
+
 ###
 
-<p align="left">🎯 Goals: 🎯 Looking to collaborate on: Exciting FiveM projects or open-source initiatives that benefit the FiveM community!<br><br>Feel free to check out my repositories or connect with me to discuss ideas, projects, or anything FiveM-related. Let's create something awesome together!</p>
+
 
 ###
 
