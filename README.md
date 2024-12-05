@@ -2,6 +2,18 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RAFIK-404/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/9lgx.gif"  />
+</div>
+
+###
+
 <p align="left">I'm RAFIK, a passionate FiveM developer with a love for crafting immersive experiences in the GTA V roleplaying world. 🚗💻 <br>With a strong focus on custom scripting, optimization, and creativity, I strive to build unique and engaging game modes, scripts, and resources for the FiveM community. <br>Whether it's developing seamless server mechanics or enhancing roleplay dynamics, I enjoy tackling challenges and bringing ideas to life.</p>
 
 ###
@@ -15,26 +27,6 @@
 ###
 
 <h2 align="left">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RAFIK-404/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.gifer.com/9lgx.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAFIK-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=RAFIK-404&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIK-404&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -76,3 +68,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAFIK-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=RAFIK-404&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIK-404&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/RAFIK-404/RAFIK-404/output/snake.svg" alt="Snake animation" />
+
+###
