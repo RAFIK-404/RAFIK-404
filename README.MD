@@ -1,4 +1,16 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RAFIK-404/count.svg?"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/9lgx.gif"  />
+</div>
 
 ###
 
@@ -15,26 +27,6 @@
 ###
 
 <h2 align="left">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RAFIK-404/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.gifer.com/9lgx.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAFIK-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=RAFIK-404&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIK-404&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -74,6 +66,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAFIK-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=RAFIK-404&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIK-404&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
